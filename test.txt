@@ -7,3 +7,4 @@ amend提交
 test changes
 new add
 ....
+这是远程上的冲突
